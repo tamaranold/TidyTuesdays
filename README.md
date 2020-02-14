@@ -3,7 +3,7 @@ My playground for R plots and taking part of the #TidyTuesday challenge, a weekl
 
 https://github.com/rfordatascience/tidytuesday
 
-# Lovely little helpful packages/Lessons learned
+# Lovely little helpful packages
 * hrbrthemes - all time favorite themes for ggplot
 
 * ggtext - individual styles for titles/subtitles/captions or text in general
@@ -11,6 +11,6 @@ https://github.com/rfordatascience/tidytuesday
 * patchwork - combine multiple plots to one poster (easiest way)
 * gridExtra - combine multiple plots to one poster (workaround for combining plots with and without axes labels)
 
-# Lovely little plots
-- 2020_02_04 ![NFL](https://github.com/tamaranold/TidyTuesdays/blob/master/plots/2020_02_04_NFL.png)
+# Lovely little plots/Lessons learned
+- 2020_02_04: learned to use ggplot as textfield and first time gridExtra ![NFL](https://github.com/tamaranold/TidyTuesdays/blob/master/plots/2020_02_04_NFL.png)
 

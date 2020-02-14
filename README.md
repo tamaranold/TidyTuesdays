@@ -4,11 +4,11 @@ My playground for R plots and taking part of the #TidyTuesday challenge, a weekl
 https://github.com/rfordatascience/tidytuesday
 
 # Lovely little helpful packages/Lessons learned
-*hrbrthemes - all time favorite themes for ggplot
+* hrbrthemes - all time favorite themes for ggplot
 
-*ggtext - individual styles for titles/subtitles/captions or text in general
+* ggtext - individual styles for titles/subtitles/captions or text in general
 
-*patchwork - combine multiple plots to one poster (easiest way)
-*gridExtra - combine multiple plots to one poster (workaround for combining plots with and without axes labels)
+* patchwork - combine multiple plots to one poster (easiest way)
+* gridExtra - combine multiple plots to one poster (workaround for combining plots with and without axes labels)
 
 # Lovely little plots

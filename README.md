@@ -12,5 +12,5 @@ https://github.com/rfordatascience/tidytuesday
 * gridExtra - combine multiple plots to one poster (workaround for combining plots with and without axes labels)
 
 # Lovely little plots
-![TEST](https://github.com/tamaranold/TidyTuesdays/blob/master/plots/2020_02_04_NFL.png)
+- 2020_02_04 ![NFL](https://github.com/tamaranold/TidyTuesdays/blob/master/plots/2020_02_04_NFL.png)
 

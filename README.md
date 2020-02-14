@@ -13,3 +13,4 @@ https://github.com/rfordatascience/tidytuesday
 
 # Lovely little plots
 ![](2020_02_04_NFL.png)
+![TEST](https://https://github.com/tamaranold/TidyTuesdays/blob/master/plots/2020_02_04_NFL.png)
